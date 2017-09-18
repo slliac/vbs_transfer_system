@@ -1,7 +1,9 @@
 # vbs_transfer_system
 
-Date : Jun - August
+Date : Jun - August (AIA internship 's most experience individual project)
 Created by Gordon
+
+
 
 This is a VBScript file for transfering encrypted keyCode from CitiBank to QA Department.
 
