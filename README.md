@@ -1,6 +1,6 @@
 # vbs_transfer_system
 
-Date : Jun - August (AIA internship 's most experience individual project)
+Date : Jun - August (AIA internship 's individual project with help of some mates)
 Created by Gordon
 
 
