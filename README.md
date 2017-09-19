@@ -1,7 +1,7 @@
 # vbs_transfer_system
 
 Date : Jun - August (AIA internship 's individual project)
-Created by Gordon
+Created by Gordon in 2016
 
 
 
